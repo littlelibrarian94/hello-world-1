@@ -23,3 +23,5 @@ Line break (previous line ended with two spaces).
 - Dinosaur
 - Elephant
 - Falcon
+### Links  
+This file was created following instructions from the [Quickstart Hello World guide](https://docs.github.com/en/get-started/quickstart/hello-world), and the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
