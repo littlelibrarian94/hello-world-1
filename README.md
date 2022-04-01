@@ -25,11 +25,11 @@ Line break (previous line ended with two spaces).
 - Falcon  
 ### Code  
 Sample code:  
-``
-``<html>  
-    <head>
-    </head>
-    <body>
-    </body>
-</html>
-``
+``<html>
+``    <head>
+``    </head>
+``    <body>
+``    </body>
+``</html>
+  
+End of sample code.
