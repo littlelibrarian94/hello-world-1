@@ -9,7 +9,11 @@ Line break (previous line ended with two spaces).
 ## Blockquotes  
 > This is an example of a blockquote.
 > This blockquote consists of three lines.
-> This is the third and final line of the blockquote.
+> This is the third and final line of the blockquote. None of the lines appear separately, because they didn't end in two spaces.  
+  
+> This is another example of a blockquote.  
+> This blockquote also consists of three lines.  
+> This is the third and final line of the blockquote. All three lines should display separately.  
 ## Lists  
 ### Ordered list
 1. Apples
