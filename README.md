@@ -26,7 +26,7 @@ Line break (previous line ended with two spaces).
 ### Code  
 Sample code:  
 ``
-<html>  
+``<html>  
     <head>
     </head>
     <body>
