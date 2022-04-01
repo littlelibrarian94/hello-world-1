@@ -1,5 +1,5 @@
 # Hello world!
-Getting started with GitHub: Testing Markdown syntax  
+Getting started with GitHub : Testing Markdown syntax  
 ## Line breaks  
 Sample text.
 No line break (previous line did not end with two spaces).  
@@ -22,4 +22,14 @@ Line break (previous line ended with two spaces).
 ### Unordered list
 - Dinosaur
 - Elephant
-- Falcon
+- Falcon  
+### Code  
+Sample code:  
+``
+<html>  
+    <head>
+    </head>
+    <body>
+    </body>
+</html>
+``
