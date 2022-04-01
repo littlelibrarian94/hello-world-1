@@ -22,14 +22,4 @@ Line break (previous line ended with two spaces).
 ### Unordered list
 - Dinosaur
 - Elephant
-- Falcon  
-### Code  
-Sample code:  
-``<html>
-``    <head>
-``    </head>
-``    <body>
-``    </body>
-``</html>
-  
-End of sample code.
+- Falcon
