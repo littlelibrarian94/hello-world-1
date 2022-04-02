@@ -1,5 +1,8 @@
-# Hello world!
-Getting started with GitHub : Testing Markdown syntax  
+# Hello world!  
+
+Getting started with GitHub : Learning and testing Markdown syntax  
+### Links  
+This file was created following instructions from the [Quickstart Hello World guide](https://docs.github.com/en/get-started/quickstart/hello-world), and the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).  
 ## Line breaks  
 Sample text.
 No line break (previous line did not end with two spaces).  
@@ -23,5 +26,3 @@ Line break (previous line ended with two spaces).
 - Dinosaur
 - Elephant
 - Falcon
-### Links  
-This file was created following instructions from the [Quickstart Hello World guide](https://docs.github.com/en/get-started/quickstart/hello-world), and the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
