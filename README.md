@@ -2,7 +2,7 @@
 
 Getting started with GitHub : Learning and testing Markdown syntax  
 ### Links  
-This file was created following instructions from the [Quickstart Hello World guide](https://docs.github.com/en/get-started/quickstart/hello-world), and the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).  
+This is my first GitHub repository. It was created following instructions from the [Quickstart Hello World guide](https://docs.github.com/en/get-started/quickstart/hello-world), and the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).  
 ## Line breaks  
 Sample text.
 No line break (previous line did not end with two spaces).  
