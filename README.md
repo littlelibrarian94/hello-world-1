@@ -26,3 +26,5 @@ Line break (previous line ended with two spaces).
 - Dinosaur
 - Elephant
 - Falcon
+- Giraffe
+- Hyena
